@@ -1,3 +1,7 @@
+## Smile labs Website
+
+![photo_2022-08-24_23-21-21](https://user-images.githubusercontent.com/112045321/187054269-26e55277-b6f9-4928-bb85-be145bcc2958.jpg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
