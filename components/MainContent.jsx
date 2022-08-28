@@ -4,7 +4,7 @@ import smileLogo from '../public/assets/logo.png';
 
 const MainContent = () => {
   return (
-    <main className={styles.main}>
+    <>
       <h1 className={styles.title}>
         Welcome to{' '}
         <a
@@ -23,7 +23,7 @@ const MainContent = () => {
         width={250}
         height={250}
       />
-    </main>
+    </>
   );
 };
 
