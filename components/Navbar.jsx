@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import smileLogo from '../public/assets/logo.png';
+import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 const Navbar = () => {
   return (
@@ -32,6 +33,9 @@ const Navbar = () => {
               </span>
             </a>
           </Link>
+        </div>
+        <div>
+          <ConnectButton />
         </div>
       </nav>
     </>
